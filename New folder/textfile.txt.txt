@@ -1,1 +1,2 @@
-hello
+hello 
+Шинэ branch ууд үүсгэсний дараа git checkout list2 git command-аар list2 branch - д шилжсэний дараах өөрчлөлтийг хадагалав
